@@ -1,1 +1,1 @@
-# HTML TEMPLATE QUICK START
+# Bing home page
